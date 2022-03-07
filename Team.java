@@ -1,5 +1,3 @@
-package com.desafios.codeforces.logicaprogramacao.desafios;
-
 import java.util.Locale;
 import java.util.Scanner;
 
